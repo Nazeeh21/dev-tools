@@ -2,14 +2,14 @@
 
 | Tool Name   | Ethereum   | Fuel   | Solana      |
 | ----------- | ---------- | ------ | ----------- |
-| Smart Contract Language   | Solidity, Vyper       | Rust (with Anchor)   | Sway (based on Rust)        |
+| Smart Contract Language   | Solidity, Vyper       |  Sway (based on Rust)    |   Rust (with Anchor)    |
 | IDE & Code Editors | Remix IDE | Sway Playground | Solana Playground |
 | Smart Contract Standards | OpenZeppelin SDK | Sway Standards | Metaplex (Needs to be confirmed) |
 |  Wallet Interaction | MetaMask, WalletConnect | Wallet SDK | Phantom, Sollet |
 | Frontend  APIs      | Ethers.js, Wagmi     | TS SDK    | Lorem ipsum |
-| Rust API   | [Rust-Web3](https://github.com/tomusdrw/rust-web3)       |  Rust SDK | Lorem Ipsum   |
+| Rust API   | [Rust-Web3](https://github.com/tomusdrw/rust-web3)   |  Rust SDK | Lorem Ipsum   |
 | Deployment tools | Truffle, Hardhat, Foundry | Fuelup | Solana CLI |
-| APIs and Data Services | Infura, Alchemy | Quicknode, Solana Beach | GraphQL API |
+| APIs and Data Services | Infura, Alchemy |GraphQL API  | Quicknode, Solana Beach |
 | BLock Explorer | Etherscan | Fuel Explorer | Solana Explorer |
 | Testnets | Sepolia | Fuel Testnet (beta-5) | Devnet, Testnet |
 | Fuel Orchestrator | Forge (if using Foundry) | Forc |  |
